@@ -1,11 +1,16 @@
 _repo: The-Abandoned-of-Yan_61355
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61355-h/images/cover.jpg
 creator:
   author:
     agent_name: Daley, Donald F.
     gutenberg_agent_id: '51379'
     url: http://www.gutenberg.org/2009/agents/51379
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61355#The-Abandoned-of-Yan
 gutenberg_issued: '2020-02-09'
 gutenberg_type: Text
 identifiers:
